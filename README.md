@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Samrudh Sivva
 
-📍 San Jose, CA 95110
+📍 San Jose, CA 95110 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrudh-sivva/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrudhsivva)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrudh.sivva@sjsu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://main.d1dmnqxuutbswc.amplifyapp.com/)
+
 
 ## 🎓 Education
 
@@ -99,14 +101,16 @@
 
 ## 🚀 Projects
 
-**Foodify**  
-*React, Node.js, PostgreSQL, Tailwind CSS, Docker*  
-- Developed an online food ordering system with React, Redux, and OpenAPI, enhancing user engagement by 30%.
-- Reduced data retrieval time by 40% and provided multilingual support via Google Translate API.
-
-**NebulaGrid**  
-*React, Redux, Express.js, gRPC, Cassandra, Redis, ELK, Docker*  
-- Architected a scalable distributed computing framework with 10 nodes, achieving 99.9% uptime and reducing data retrieval latency by 50%.
+- Foodify
+- NebulaGrid
+- Portfolio Website
+- Chat Application
+- E-commerce Platform
+- Task Management System
+- Blogging Platform
+- Real-time Collaboration Tool
+- Machine Learning Model Deployment
+- Personal Finance Tracker
 
 ## 📊 GitHub Stats
 
@@ -119,3 +123,4 @@
 
 - LinkedIn: [samrudh-sivva](https://www.linkedin.com/in/samrudh-sivva/)
 - Email: [samrudh.sivva@sjsu.edu](mailto:samrudh.sivva@sjsu.edu)
+- Phone: (408) 422-9967
