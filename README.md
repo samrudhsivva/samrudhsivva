@@ -97,26 +97,6 @@
 *Epam Systems, Hyderabad*  
 *January 2022 – June 2022*
 
-## 🚀 Projects
-
-- Foodify
-- NebulaGrid
-- Portfolio Website
-- Chat Application
-- E-commerce Platform
-- Task Management System
-- Blogging Platform
-- Real-time Collaboration Tool
-- Machine Learning Model Deployment
-- Personal Finance Tracker
-
-## 📊 GitHub Stats
-
-![Samrudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrudhsivva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhsivva&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrudhsivva&theme=radical)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samrudhsivva.samrudhsivva)
-
 ## 📫 How to reach me
 
 - LinkedIn: [samrudh-sivva](https://www.linkedin.com/in/samrudh-sivva/)
