@@ -12,7 +12,7 @@
 
 **Master of Science in Computer Software Engineering**
 - San Jose State University, USA
-- January 2023 – December 2025
+- January 2024 – December 2025
 - **GPA:** 3.9/4.00
 - **Coursework:** Enterprise Software Platforms, Software Systems Engineering, Cloud Computing, Distributed Systems
 
