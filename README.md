@@ -101,4 +101,3 @@
 
 - LinkedIn: [samrudh-sivva](https://www.linkedin.com/in/samrudh-sivva/)
 - Email: [samrudh.sivva@sjsu.edu](mailto:samrudh.sivva@sjsu.edu)
-- Phone: (408) 422-9967
